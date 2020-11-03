@@ -1,2 +1,0 @@
-For the program to run, the gifs that are utulized should be
-downloaded.
